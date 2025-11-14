@@ -1,0 +1,6 @@
+CULTIVO,'CICLO DE CULTIVO','GRUPO CULTIVO',SUBGRUPO,'Area Sembrada(ha)','AREA COSECHADA(ha)',PRODUCCION(t),RENDIMIENTO(t/ha),'NOMBRE CIENTIFICO CULTIVO','ESTADO FISICO DEL CULTIVO'
+'Aguacate demAs variedades',Permanente,Frutales,'Demas frutales',986.0,350.0,3500.0,10.0,'Persea americana','En fresco'
+'MaIz Tradicional',Transitorio,Cereales,Cereales,0.0,0.0,0.0,0.0,'Zea mays','En fresco'
+Frijol,Transitorio,Leguminosas,Leguminosas,12.0,6.0,6.0,1.0,'Phaseolus sp.','Grano seco'
+'LimOn  Pajarito',Permanente,Frutales,CItricos,3.99,3.99,39.85,9.99,'Citrus limon L.','En fresco'
+'MaIz Tradicional',Transitorio,Cereales,Cereales,5.5,5.0,8.39,1.68,'Zea mays','En fresco'
